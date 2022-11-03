@@ -8,7 +8,7 @@ Anotações referentes aos principais comandos de GIT, para elaboração do prim
 
 - git status - apresenta o status do código, em relação a itens adicionados e/ou _commitados_;
 
-- git add <file> - adiciona o arquivo ao git;
+- git add </file> - adiciona o arquivo ao git;
 
 - git add * - adiciona todos os arquivos não adcionados ao código;
 
